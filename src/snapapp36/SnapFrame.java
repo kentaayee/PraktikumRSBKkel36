@@ -113,7 +113,7 @@ public class SnapFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-        jLabel2.setText("Kelompok 31");
+        jLabel2.setText("Kelompok 36");
     }//GEN-LAST:event_jButton3ActionPerformed
 
     /**
